@@ -1,0 +1,9 @@
+.scroll-container {
+  background: lavender;
+  padding: 20px;
+  overflow-y: auto;
+  height: calc(100vh - 120px);
+  .height {
+    height: 1000px;
+  }
+}
